@@ -1,3 +1,13 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=38B2AC&width=435&lines=putu%40kembar-dev%3A~%24+neofetch" alt="Terminal Prompt" />
-</p>
+```text
+ _________________          putu@kembar-dev
+|.---------------.|         ---------------
+||               ||         OS: Termux (Linux on Android)
+||   >_ KODING   ||         Host: Mobile Dev Environment 📱
+||               ||         Shell: bash 5.2
+||_______________||         Editor: Code Server / Neovim
+/.-.-.-.-.-.-.-.-.\         Main Tech: TypeScript & Next.js
+/.-.-.-.-.-.-.-.-.-.\       Database: Prisma ORM & Supabase
+/.-.-.-.-.-.-.-.-.-.-.\     Styling: Tailwind CSS
+/______/__________\_____\   Status: Active Coding 🚀
+\_______________________/
+                            [████████████████████] 100%
