@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="hipng" width="100%" alt="Banner Putu">
+  <img src="hi.png" width="100%" alt="Banner Putu">
 </p>
